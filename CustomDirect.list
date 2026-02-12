@@ -2,8 +2,14 @@
 DOMAIN-KEYWORD,alibaba-inc.com
 
 # DDNS IP 获取服务
-DOMAIN-SUFFIX,ipip.net
+# IPv4 获取域名
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,yinghualuo.cn
+DOMAIN-SUFFIX,ipip.net
+
+# IPv6 获取域名
+DOMAIN-SUFFIX,neu6.edu.cn
+DOMAIN-SUFFIX,ident.me
